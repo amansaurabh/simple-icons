@@ -197,6 +197,12 @@
             "guidelines": "https://developer.adobe.com/developer-distribution/creative-cloud/docs/guides/branding_guidelines"
         },
         {
+            "title": "Adobe Animate",
+            "hex": "9A9AFF",
+            "source": "https://www.adobe.com/products/animate.html",
+            "guidelines": "https://developer.adobe.com/developer-distribution/creative-cloud/docs/guides/branding_guidelines"
+        },
+        {
             "title": "Adobe Audition",
             "hex": "9999FF",
             "source": "https://www.adobe.com/creativecloud.html",
